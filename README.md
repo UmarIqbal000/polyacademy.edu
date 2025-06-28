@@ -59,13 +59,13 @@ Welcome to the official website of **Poly Academy**, a private coaching institut
 ## 🚀 Getting Started (If You're Cloning This)
 
 ```bash
-git clone https://github.com/yourusername/polyacademy-website.git
+git clone https://github.com/UmarIqbal000/polyacademy.edu.git
 cd polyacademy-website
 npm install
 npm run dev
 ```
 
-> ⚠️ Replace the GitHub repo URL with the actual one.
+
 
 ---
 
